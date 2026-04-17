@@ -1,4 +1,4 @@
-"# exercicio-produtos-java" 
+
 Neste exercício, criei dois pacotes: Application e Entities.
 No pacote Application encontra-se o código Main do sistema, aonde criamos uma variável "produto" da classe "Product" que contém nome, preço e quantidade.
 Assim, no código Main é requisitado do usuário que ele defina quais serão essas três variáveis. 
